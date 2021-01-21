@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d20f65f3-c43f-41e6-a5a5-2ed7d7059208" name="Default Changelist" comment="Lisatud kasutusele rakendusega seotud konstandid">
+      <change afterPath="$PROJECT_DIR$/app/views/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1mv4fzlVBxVXqcZlo4XiqkJgHRt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\PhpstormProjects\pvk_vs20\app" />
+      <recent name="C:\Users\Martin\PhpstormProjects\pvk_vs20" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d20f65f3-c43f-41e6-a5a5-2ed7d7059208" name="Default Changelist" comment="" />
+      <created>1610360837883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610360837883</updated>
+      <workItem from="1610360839077" duration="1723000" />
+      <workItem from="1610618639299" duration="5961000" />
+      <workItem from="1611223389180" duration="2575000" />
+    </task>
+    <task id="LOCAL-00001" summary="Suunatud kõik tegevused index.php peale">
+      <created>1610619868275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610619868275</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Loetud lingiga edastatud andmed ja valmistatud ette nende töötluseks abifailid">
+      <created>1610620895523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610620895523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lingi andmed on ettevalmistatud kasutamiseks">
+      <created>1610623022970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610623022970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Kontroller on määratud ja võetud kasutusele kontrolleri objekti näol">
+      <created>1610624739906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610624739906</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Loodud põgikontroller ja määratud vaade faili laadimisvõimalused">
+      <created>1611224052273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611224052273</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Loodud ja võetud kasutusele vaade failid">
+      <created>1611224758245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611224758245</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lisatud kasutusele rakendusega seotud konstandid">
+      <created>1611225292401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611225292401</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Suunatud kõik tegevused index.php peale" />
+    <MESSAGE value="Loetud lingiga edastatud andmed ja valmistatud ette nende töötluseks abifailid" />
+    <MESSAGE value="Lingi andmed on ettevalmistatud kasutamiseks" />
+    <MESSAGE value="Kontroller on määratud ja võetud kasutusele kontrolleri objekti näol" />
+    <MESSAGE value="Loodud põgikontroller ja määratud vaade faili laadimisvõimalused" />
+    <MESSAGE value="Loodud ja võetud kasutusele vaade failid" />
+    <MESSAGE value="Lisatud kasutusele rakendusega seotud konstandid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lisatud kasutusele rakendusega seotud konstandid" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="165" key="#Deployment" timestamp="1610618896413">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="118" y="165" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1610618896413" />
+    <state x="233" y="150" key="#PHP" timestamp="1610361351046">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="233" y="150" key="#PHP/0.0.1920.1160@0.0.1920.1160" timestamp="1610361351046" />
+    <state x="247" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1611225383149">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="247" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1160@0.0.1920.1160" timestamp="1611225383149" />
+    <state x="306" y="261" key="FileChooserDialogImpl" timestamp="1610361694282">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="306" y="261" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1610361694282" />
+    <state x="222" y="438" key="NewPhpClassDialog" timestamp="1611223603625">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="222" y="438" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1611223603625" />
+    <state x="360" y="430" key="NewPhpFileDialog" timestamp="1611225402741">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="360" y="430" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1611225402741" />
+    <state x="53" y="448" key="Vcs.Push.Dialog.v2" timestamp="1611225293572">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="53" y="448" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1611225293572" />
+  </component>
+</project>
